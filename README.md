@@ -36,7 +36,7 @@ The project follows a structured approach to implement RPA solutions effectively
 2. **Development and Automation**:
    - Designed RPA workflows using tools like UiPath.
    - Configured bots to handle tasks such as data extraction, order scheduling, and invoice creation.
-   - Integrated RPA with existing ERP systems for seamless data exchange.
+   - Integrated RPA with existing ERP systems for seamless data exchange and data fill in.
 
 3. **Testing and Validation**:
    - Conducted extensive testing to ensure accuracy and reliability in automated processes.
